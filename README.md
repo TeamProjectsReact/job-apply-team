@@ -5,13 +5,13 @@
 
 ## Tech Stack & Tools?
 
-✅ Frontend: React + Vite + Tailwind CSS
-✅ Backend: Node.js + Express.js
-✅ Database: MongoDB + Mongoose
-✅ Auth: JWT + bcrypt
-✅ File Uploads: Multer (for resumes)
-✅ Real-Time Chat: Socket.io (for messaging)
-✅ Email Notifications: Nodemailer
+- ✅ Frontend: React + Vite + Tailwind CSS
+- ✅ Backend: Node.js + Express.js
+- ✅ Database: MongoDB + Mongoose
+- ✅ Auth: JWT + bcrypt
+- ✅ File Uploads: Multer (for resumes)
+- ✅ Real-Time Chat: Socket.io (for messaging)
+- ✅ Email Notifications: Nodemailer
 
 ## 🔹 Roles in the System
 
