@@ -2,6 +2,10 @@
 
 # Requirements
 
+## use following link to tasks
+
+[Project Tasks](https://tree.taiga.io/project/backendexpert-job-applying-system/kanban)
+
 
 ## Tech Stack & Tools?
 
